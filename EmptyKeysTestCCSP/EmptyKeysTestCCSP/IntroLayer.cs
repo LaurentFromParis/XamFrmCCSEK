@@ -35,7 +35,9 @@ namespace EmptyKeysTestCCSP
             // Use the bounds to layout the positioning of our drawable assets
             var bounds = VisibleBoundsWorldspace;
             var content = GameView.ContentManager;
-            root = new Root((int)bounds.Size.Width, (int)bounds.Size.Height);
+            int w = int.Parse(bounds.Size.Width.ToString());
+            int h = int.Parse(bounds.Size.Height.ToString());
+            root = new Root(w, h);  //LJO : Bug HERE
             debug = new DebugViewModel(root);
             root.DataContext = new RootViewModel();
 

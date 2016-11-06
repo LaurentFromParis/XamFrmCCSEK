@@ -75,7 +75,7 @@ namespace EmptyKeysTestCCSP
 
                 CCScene gameScene = new CCScene(nativeGameView);
                 gameScene.AddLayer(new GameLayer());
-                gameScene.AddLayer(new IntroLayer()); //LJO : Bug HERE
+                gameScene.AddLayer(new IntroLayer());
                 nativeGameView.RunWithScene(gameScene);
             }
         }

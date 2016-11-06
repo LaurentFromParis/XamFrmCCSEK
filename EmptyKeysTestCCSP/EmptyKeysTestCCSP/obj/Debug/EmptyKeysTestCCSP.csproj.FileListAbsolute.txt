@@ -76,5 +76,3 @@ E:\GitHub\EK\XamFrmCCSEK\EmptyKeysTestCCSP\EmptyKeysTestCCSP\obj\Debug\EmptyKeys
 E:\GitHub\EK\XamFrmCCSEK\EmptyKeysTestCCSP\EmptyKeysTestCCSP\obj\Debug\EmptyKeysTestCCSP.pdb
 E:\GitHub\EK\XamFrmCCSEK\EmptyKeysTestCCSP\EmptyKeysTestCCSP\obj\Debug\EmptyKeysTestCCSP.dll.mdb
 E:\GitHub\EK\XamFrmCCSEK\EmptyKeysTestCCSP\EmptyKeysTestCCSP\bin\Debug\EmptyKeysTestCCSP.dll.mdb
-E:\GitHub\EK\XamFrmCCSEK\EmptyKeysTestCCSP\EmptyKeysTestCCSP\obj\Debug\EmptyKeysTestCCSP.dll.mdb
-E:\GitHub\EK\XamFrmCCSEK\EmptyKeysTestCCSP\EmptyKeysTestCCSP\bin\Debug\EmptyKeysTestCCSP.dll.mdb
